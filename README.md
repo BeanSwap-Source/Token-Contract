@@ -1,3 +1,3 @@
-# Token-Contract
+# BeanStalk Token-Contract
 
 0x536372b3102e05ca9faf123917e5f2478e6ff1a7
